@@ -1,0 +1,80 @@
+C:\Users\akira\AppData\Local\Temporary Projects\Program7_8\bin\Debug\Program7_8.exe
+C:\Users\akira\AppData\Local\Temporary Projects\Program7_8\bin\Debug\Program7_8.pdb
+C:\Users\akira\AppData\Local\Temporary Projects\Program7_8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\akira\AppData\Local\Temporary Projects\Program7_8\obj\x86\Debug\Program7_8.Form1.resources
+C:\Users\akira\AppData\Local\Temporary Projects\Program7_8\obj\x86\Debug\Program7_8.Properties.Resources.resources
+C:\Users\akira\AppData\Local\Temporary Projects\Program7_8\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\akira\AppData\Local\Temporary Projects\Program7_8\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\akira\AppData\Local\Temporary Projects\Program7_8\obj\x86\Debug\Program7_8.exe
+C:\Users\akira\AppData\Local\Temporary Projects\Program7_8\obj\x86\Debug\Program7_8.pdb
+C:\csharp\chapter07\Program7_8\Program7_8\obj\x86\Debug\Program7_8.exe
+C:\csharp\chapter07\Program7_8\Program7_8\obj\x86\Debug\Program7_8.pdb
+C:\csharp\chapter07\Program7_8\Program7_8\bin\Debug\Program7_8.exe
+C:\csharp\chapter07\Program7_8\Program7_8\bin\Debug\Program7_8.pdb
+C:\csharp\chapter07\Program7_8\Program7_8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\csharp\chapter07\Program7_8\Program7_8\obj\x86\Debug\Program7_8.Form1.resources
+C:\csharp\chapter07\Program7_8\Program7_8\obj\x86\Debug\Program7_8.Properties.Resources.resources
+C:\csharp\chapter07\Program7_8\Program7_8\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\csharp\chapter07\Program7_8\Program7_8\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_8\Program7_8\obj\x86\Debug\Program7_8.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_8\Program7_8\obj\x86\Debug\Program7_8.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_8\Program7_8\bin\Debug\Program7_8.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_8\Program7_8\bin\Debug\Program7_8.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_8\Program7_8\obj\x86\Debug\Program7_8.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_8\Program7_8\obj\x86\Debug\Program7_8.Form1.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_8\Program7_8\obj\x86\Debug\Program7_8.Properties.Resources.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_8\Program7_8\obj\x86\Debug\Program7_8.csproj.GenerateResource.Cache
+C:\Courses\CS233CSharp\Demos\Arrays\Program7_8\Program7_8\obj\x86\Debug\Program7_8.exe
+C:\Courses\CS233CSharp\Demos\Arrays\Program7_8\Program7_8\obj\x86\Debug\Program7_8.pdb
+C:\Courses\CS233CSharp\Demos\Arrays\Program7_8Done\Program7_8\obj\x86\Debug\Program7_8.exe
+C:\Courses\CS233CSharp\Demos\Arrays\Program7_8Done\Program7_8\obj\x86\Debug\Program7_8.pdb
+C:\Courses\CS233CSharp\Demos\Arrays\Program7_8Done\Program7_8\obj\x86\Debug\Program7_8.csprojResolveAssemblyReference.cache
+C:\Courses\CS233CSharp\Demos\Arrays\Program7_8Done\Program7_8\obj\x86\Debug\Program7_8.Form1.resources
+C:\Courses\CS233CSharp\Demos\Arrays\Program7_8Done\Program7_8\obj\x86\Debug\Program7_8.Properties.Resources.resources
+C:\Courses\CS233CSharp\Demos\Arrays\Program7_8Done\Program7_8\obj\x86\Debug\Program7_8.csproj.GenerateResource.Cache
+C:\Courses\CS233CSharp\Demos\Arrays\Program7_8Done\Program7_8\bin\Debug\Program7_8.exe
+C:\Courses\CS233CSharp\Demos\Arrays\Program7_8Done\Program7_8\bin\Debug\Program7_8.pdb
+C:\Courses\CS233CSharp\Demos\Arrays\TicTacToe\Program7_8\obj\x86\Debug\Program7_8.exe
+C:\Courses\CS233CSharp\Demos\Arrays\TicTacToe\Program7_8\obj\x86\Debug\Program7_8.pdb
+C:\Courses\CS233CSharp\Demos\Arrays\TicTacToe\Program7_8\bin\Debug\Program7_8.exe
+C:\Courses\CS233CSharp\Demos\Arrays\TicTacToe\Program7_8\bin\Debug\Program7_8.pdb
+C:\Courses\CS233CSharp\Demos\Arrays\TicTacToe\Program7_8\obj\x86\Debug\Program7_8.csprojResolveAssemblyReference.cache
+C:\Courses\CS233CSharp\Demos\Arrays\TicTacToe\Program7_8\obj\x86\Debug\Program7_8.Form1.resources
+C:\Courses\CS233CSharp\Demos\Arrays\TicTacToe\Program7_8\obj\x86\Debug\Program7_8.Properties.Resources.resources
+C:\Courses\CS233CSharp\Demos\Arrays\TicTacToe\Program7_8\obj\x86\Debug\Program7_8.csproj.GenerateResource.Cache
+C:\Courses\cs133N\Demos\Chapter 6\TicTacToeDone\Program7_8\obj\x86\Debug\Program7_8.exe
+C:\Courses\cs133N\Demos\Chapter 6\TicTacToeDone\Program7_8\obj\x86\Debug\Program7_8.pdb
+C:\Courses\cs133N\Demos\Chapter 6\OtherStuff\TicTacToeDone\Program7_8\obj\x86\Debug\Program7_8.exe
+C:\Courses\cs133N\Demos\Chapter 6\OtherStuff\TicTacToeDone\Program7_8\obj\x86\Debug\Program7_8.pdb
+C:\Courses\cs133N\Demos\Chapter 6\OtherStuff\TicTacToeDone\Program7_8\bin\Debug\Program7_8.exe
+C:\Courses\cs133N\Demos\Chapter 6\OtherStuff\TicTacToeDone\Program7_8\bin\Debug\Program7_8.pdb
+C:\Courses\cs133N\Demos\Chapter 6\OtherStuff\TicTacToeDone\Program7_8\obj\x86\Debug\Program7_8.csprojResolveAssemblyReference.cache
+C:\Courses\cs133N\Demos\Chapter 6\OtherStuff\TicTacToeDone\Program7_8\obj\x86\Debug\Program7_8.Form1.resources
+C:\Courses\cs133N\Demos\Chapter 6\OtherStuff\TicTacToeDone\Program7_8\obj\x86\Debug\Program7_8.Properties.Resources.resources
+C:\Courses\cs133N\Demos\Chapter 6\OtherStuff\TicTacToeDone\Program7_8\obj\x86\Debug\Program7_8.csproj.GenerateResource.Cache
+C:\Courses\cs133N\Demos\Chapter 6\Start\TicTacToeStsart\Program7_8\obj\x86\Debug\Program7_8.exe
+C:\Courses\cs133N\Demos\Chapter 6\Start\TicTacToeStsart\Program7_8\obj\x86\Debug\Program7_8.pdb
+C:\Courses\cs133N\Demos\Chapter 6\Start\TicTacToeStsart\Program7_8\bin\Debug\Program7_8.exe
+C:\Courses\cs133N\Demos\Chapter 6\Start\TicTacToeStsart\Program7_8\bin\Debug\Program7_8.pdb
+C:\Courses\cs133N\Demos\Chapter 6\Start\TicTacToeStsart\Program7_8\obj\x86\Debug\Program7_8.csprojResolveAssemblyReference.cache
+C:\Courses\cs133N\Demos\Chapter 6\Start\TicTacToeStsart\Program7_8\obj\x86\Debug\Program7_8.Form1.resources
+C:\Courses\cs133N\Demos\Chapter 6\Start\TicTacToeStsart\Program7_8\obj\x86\Debug\Program7_8.Properties.Resources.resources
+C:\Courses\cs133N\Demos\Chapter 6\Start\TicTacToeStsart\Program7_8\obj\x86\Debug\Program7_8.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\TicTacToeStart\Program7_8\bin\Debug\Program7_8.exe
+C:\Users\Student\Desktop\TicTacToeStart\Program7_8\bin\Debug\Program7_8.pdb
+C:\Users\Student\Desktop\TicTacToeStart\Program7_8\obj\x86\Debug\Program7_8.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\TicTacToeStart\Program7_8\obj\x86\Debug\Program7_8.Form1.resources
+C:\Users\Student\Desktop\TicTacToeStart\Program7_8\obj\x86\Debug\Program7_8.Properties.Resources.resources
+C:\Users\Student\Desktop\TicTacToeStart\Program7_8\obj\x86\Debug\Program7_8.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\TicTacToeStart\Program7_8\obj\x86\Debug\Program7_8.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\TicTacToeStart\Program7_8\obj\x86\Debug\Program7_8.exe
+C:\Users\Student\Desktop\TicTacToeStart\Program7_8\obj\x86\Debug\Program7_8.pdb
+C:\Users\Drazhok\Google Drive\CS133N\Tic Tac Toe\Program7_8\bin\Debug\Program7_8.exe
+C:\Users\Drazhok\Google Drive\CS133N\Tic Tac Toe\Program7_8\bin\Debug\Program7_8.pdb
+C:\Users\Drazhok\Google Drive\CS133N\Tic Tac Toe\Program7_8\obj\x86\Debug\Program7_8.csprojAssemblyReference.cache
+C:\Users\Drazhok\Google Drive\CS133N\Tic Tac Toe\Program7_8\obj\x86\Debug\Program7_8.Form1.resources
+C:\Users\Drazhok\Google Drive\CS133N\Tic Tac Toe\Program7_8\obj\x86\Debug\Program7_8.Properties.Resources.resources
+C:\Users\Drazhok\Google Drive\CS133N\Tic Tac Toe\Program7_8\obj\x86\Debug\Program7_8.csproj.GenerateResource.cache
+C:\Users\Drazhok\Google Drive\CS133N\Tic Tac Toe\Program7_8\obj\x86\Debug\Program7_8.csproj.CoreCompileInputs.cache
+C:\Users\Drazhok\Google Drive\CS133N\Tic Tac Toe\Program7_8\obj\x86\Debug\Program7_8.exe
+C:\Users\Drazhok\Google Drive\CS133N\Tic Tac Toe\Program7_8\obj\x86\Debug\Program7_8.pdb
